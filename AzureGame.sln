@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureGame.Plugins", "AzureGame.Plugins.csproj", "{ADC2E5BE-07F6-3F44-512A-44013065763D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureGame", "AzureGame.csproj", "{97037741-E19F-C978-03B0-7438582A73EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureGame.Editor.Plugins", "AzureGame.Editor.Plugins.csproj", "{906EF580-29EC-DAA9-F73F-94A2D1635F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC2E5BE-07F6-3F44-512A-44013065763D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC2E5BE-07F6-3F44-512A-44013065763D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC2E5BE-07F6-3F44-512A-44013065763D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC2E5BE-07F6-3F44-512A-44013065763D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97037741-E19F-C978-03B0-7438582A73EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97037741-E19F-C978-03B0-7438582A73EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97037741-E19F-C978-03B0-7438582A73EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97037741-E19F-C978-03B0-7438582A73EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906EF580-29EC-DAA9-F73F-94A2D1635F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906EF580-29EC-DAA9-F73F-94A2D1635F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906EF580-29EC-DAA9-F73F-94A2D1635F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906EF580-29EC-DAA9-F73F-94A2D1635F58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
