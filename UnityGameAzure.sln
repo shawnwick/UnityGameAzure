@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityGameAzure.Plugins", "UnityGameAzure.Plugins.csproj", "{A5802E2B-8288-CC74-6CCD-667C01BC56E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityGameAzure", "UnityGameAzure.csproj", "{1D7A164B-B38E-171D-75B6-CE84095A37C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityGameAzure.Editor.Plugins", "UnityGameAzure.Editor.Plugins.csproj", "{21EEEF4F-638B-D0AB-E7BC-8FE9634B0862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5802E2B-8288-CC74-6CCD-667C01BC56E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5802E2B-8288-CC74-6CCD-667C01BC56E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5802E2B-8288-CC74-6CCD-667C01BC56E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5802E2B-8288-CC74-6CCD-667C01BC56E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7A164B-B38E-171D-75B6-CE84095A37C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7A164B-B38E-171D-75B6-CE84095A37C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7A164B-B38E-171D-75B6-CE84095A37C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7A164B-B38E-171D-75B6-CE84095A37C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21EEEF4F-638B-D0AB-E7BC-8FE9634B0862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EEEF4F-638B-D0AB-E7BC-8FE9634B0862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EEEF4F-638B-D0AB-E7BC-8FE9634B0862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EEEF4F-638B-D0AB-E7BC-8FE9634B0862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
